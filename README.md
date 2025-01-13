@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi!
+I'm a Python, AI, and Flutter enthusiast. You can find some of my projects here, under the repositories tab.
+
+I am also a freelancer, so feel free to contact me if you have any projects in mind.
+
+My freelander profiles:
+- [Fiverr](https://www.fiverr.com/emircihangir?public_mode=true)
+- [Bionluk](https://bionluk.com/muhammedemirc)
+
+My portfolio website: [emircihangir.com](emircihangir.com)
+
+My email: m.emircihangir@gmail.com
 
 <!--
 **emircihangir/emircihangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
