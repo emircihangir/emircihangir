@@ -3,7 +3,7 @@ I'm a Python, AI, and Flutter enthusiast. You can find some of my projects here,
 
 I am also a freelancer, so feel free to contact me if you have any projects in mind.
 
-My freelander profiles:
+My freelancer profiles:
 - [Fiverr](https://www.fiverr.com/emircihangir?public_mode=true)
 - [Bionluk](https://bionluk.com/muhammedemirc)
 
